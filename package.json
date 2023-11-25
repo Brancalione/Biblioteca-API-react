@@ -27,5 +27,10 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
     "vite": "^4.4.5"
-  }
+  },
+  "description": "Projeto acadêmico de uma biblioteca com CRUD de livros via api.\r Foi utilizado uma api fake para realizar as requisições: https://fakerestapi.azurewebsites.net/index.html\r Projeto desenvolvido em Reach com uso de conceitos como Hooks, Formulários, interface gráfica com e sem bibliotecas, Router e API com Axios.",
+  "main": "vite.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
